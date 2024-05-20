@@ -1,1 +1,7 @@
+after clone on the terminal enter:
 
+ cd abra-assignment
+
+after that enter :
+
+ dotnet run   
